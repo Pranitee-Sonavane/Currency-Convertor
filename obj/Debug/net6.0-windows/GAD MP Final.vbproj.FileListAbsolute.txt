@@ -1,0 +1,18 @@
+E:\Fanaa Microprojects\GAD MP Final\obj\Debug\net6.0-windows\GAD MP Final.vbproj.AssemblyReference.cache
+E:\Fanaa Microprojects\GAD MP Final\obj\Debug\net6.0-windows\GAD_MP_Final.Form1.resources
+E:\Fanaa Microprojects\GAD MP Final\obj\Debug\net6.0-windows\GAD_MP_Final.Resources.resources
+E:\Fanaa Microprojects\GAD MP Final\obj\Debug\net6.0-windows\GAD MP Final.vbproj.GenerateResource.cache
+E:\Fanaa Microprojects\GAD MP Final\obj\Debug\net6.0-windows\GAD MP Final.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fanaa Microprojects\GAD MP Final\obj\Debug\net6.0-windows\GAD MP Final.AssemblyInfoInputs.cache
+E:\Fanaa Microprojects\GAD MP Final\obj\Debug\net6.0-windows\GAD MP Final.AssemblyInfo.vb
+E:\Fanaa Microprojects\GAD MP Final\obj\Debug\net6.0-windows\GAD MP Final.vbproj.CoreCompileInputs.cache
+E:\Fanaa Microprojects\GAD MP Final\bin\Debug\net6.0-windows\GAD MP Final.exe
+E:\Fanaa Microprojects\GAD MP Final\bin\Debug\net6.0-windows\GAD MP Final.deps.json
+E:\Fanaa Microprojects\GAD MP Final\bin\Debug\net6.0-windows\GAD MP Final.runtimeconfig.json
+E:\Fanaa Microprojects\GAD MP Final\bin\Debug\net6.0-windows\GAD MP Final.dll
+E:\Fanaa Microprojects\GAD MP Final\bin\Debug\net6.0-windows\GAD MP Final.pdb
+E:\Fanaa Microprojects\GAD MP Final\obj\Debug\net6.0-windows\GAD MP Final.dll
+E:\Fanaa Microprojects\GAD MP Final\obj\Debug\net6.0-windows\refint\GAD MP Final.dll
+E:\Fanaa Microprojects\GAD MP Final\obj\Debug\net6.0-windows\GAD MP Final.pdb
+E:\Fanaa Microprojects\GAD MP Final\obj\Debug\net6.0-windows\GAD MP Final.genruntimeconfig.cache
+E:\Fanaa Microprojects\GAD MP Final\obj\Debug\net6.0-windows\ref\GAD MP Final.dll
